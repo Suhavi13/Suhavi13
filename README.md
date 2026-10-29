@@ -1,10 +1,10 @@
-# Hi, I'm Suhavi 👋
+# Hi I'm Suhavi! 
 
 Software developer in **Calgary**. SAIT Software Development graduate (2026) with a focus on **Python backends, cloud deployment and AI-powered apps**.
 
 - 🏢 Built a microservices energy-analytics platform for a real client (FastAPI · PostgreSQL · Redis · Docker · Azure Container Apps)
 - 🤖 Building with LLMs: evidence-grounded recommendations, structured JSON outputs, OpenAI-compatible APIs
-- ☁️ Azure: Container Apps, ACR, Functions, Blob Storage, Cosmos DB, Static Web Apps · CCNA certified
+- ☁️ Azure: Container Apps, ACR, Functions, Blob Storage, Cosmos DB, Static Web Apps 
 - 📫 suhavikaur27@gmail.com · [LinkedIn](https://www.linkedin.com/in/suhavi-kaur-2a2349350/)
 
 ## Featured projects
